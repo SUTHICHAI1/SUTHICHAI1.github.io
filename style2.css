@@ -163,12 +163,27 @@ body
     }
     .into .container1 .img_area img
     {
+        margin-top: 170px;
         width: 100%;
         object-fit: cover;
     }
     .Text_area 
     {
+      margin-top: 200px;
       width: 100%;
       margin-left: -10px;
     }
+    .header .herder_area 
+    {
+        width: 100%;
+        height: 0;
+        margin: 0;
+    }
+    .header .herder_area h1
+    {
+        width: 100%;
+        height: 0;
+        margin: 0;
+    }
+
 }

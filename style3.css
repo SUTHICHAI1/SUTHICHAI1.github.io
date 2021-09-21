@@ -155,9 +155,16 @@ body
     .Into5 .Into5_area
     {
        width: 100%;
+       height: 0;
     }
-    .Into5 .Into5_area .Data1
+    .Into5 .Into5_area h1
     {
+        width: 100%;
+        height: 0;
+    }
+    .Into5 .Into5_area ul.Data1
+    {
+        margin-top: 150px;
         width: 100%;
         text-align:center;
     }
@@ -169,6 +176,7 @@ body
     }
     .Into5 .Into5_area .areacontact button
     {
-        margin-right: 100px;
+        margin-right:110px;
     }
+
 }
