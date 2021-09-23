@@ -364,6 +364,10 @@ body
       height: 10px;
       background:black;
    }
+   .head .into1_text p
+   {
+     font-size: 45px;
+   }
 }
 @media only screen and (max-width : 950px)
 {
@@ -403,7 +407,7 @@ body
      background:black;
  }
 }   
-@media only screen and (max-width : 550px)
+@media only screen and (max-width : 500px)
 {
 
     .head .area 
